@@ -1,5 +1,5 @@
-abc.exe:fact.o pol.o main.o
-	gcc -o abc.exe fact.o pol.o main.o
+ABC.exe:fact.o pol.o main.o
+	gcc -o ABC.exe fact.o pol.o main.o
 fact.o:fact.c
 	gcc -c fact.c
 pol.o:pol.c

@@ -1,6 +1,5 @@
-#include <stdio.h>
 void main()
 {
-factt();
+fact();
 poll();
 }

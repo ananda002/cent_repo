@@ -1,5 +1,5 @@
 #include <stdio.h>
-void poll()
+pol()
 {
     int n, reversedInteger = 0, remainder, originalInteger;
 
@@ -22,5 +22,5 @@ void poll()
     else
         printf("%d is not a palindrome.", originalInteger);
     
-    //return 0;
+   
 }
